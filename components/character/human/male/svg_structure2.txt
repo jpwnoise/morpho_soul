@@ -1,0 +1,80 @@
+
+PATH: head_outline
+d: m 150.00015,23.354647 c -4.02501,0.0378 -8.49271,0.975872 -10.99365,6.964949 l 0.29973,20.080428 c 0,0 2.66021,6.962898 10.69392,7.133932 0.001,2.3e-5 0.002,-2.3e-5 0.003,0 0.001,-
+transform: None
+style: font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.591;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1
+
+PATH: upper_arm_right_outline
+d: m 179.524,80.72627 c 21.77845,0.649104 22.93464,-4.705738 33.63158,-7.282897 l -1.30263,-11.48684 c -7.13127,-1.599933 -14.51682,0.868608 -21.78805,1.50793 -5.26279,-1.581449 -10.0
+transform: None
+style: font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#3751cb;stroke-width:0.591;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none
+
+PATH: fore_arm_right_outline
+d: m 211.49768,61.897322 c 12.75361,-4.388156 27.4002,-2.908082 41.15132,-4.203945 v 9.17763 c -11.30766,3.584603 -23.4598,6.581748 -39.84869,6.631578
+transform: None
+style: font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#8c37cb;stroke-width:0.591;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none
+
+PATH: hand_right_outline
+d: m 252.35295,57.634166 5.80263,-5.032897 8.17105,-3.078946 0.65132,2.190789 -5.56579,3.138157 5.86184,1.065789 10.00658,1.06579 c 2.87841,2.560597 6.18563,5.027159 -3.31579,10.30263
+transform: None
+style: font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#3751cb;stroke-width:0.591;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none
+
+PATH: neck_outline
+d: m 167.80747,62.181159 c -11.09506,-2.344619 -8.33176,-8.499237 -8.33176,-8.499237 -6.72958,5.513652 -13.00453,4.980735 -18.94506,0 0,0 2.7633,6.154618 -8.33176,8.499237 11.03488,5.
+transform: None
+style: font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#c10000;stroke-width:0.591;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none
+
+PATH: upper_arm_left_outline
+d: m 167.6819,62.074952 5.32867,-1.877909 c 7.04814,-0.50145 11.79154,1.685971 17.05433,3.26742 7.27123,-0.639322 14.65678,-3.107863 21.78805,-1.50793 l 1.30263,11.48684 c -10.69694,2
+transform: None
+style: font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#3751cb;stroke-width:0.591;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none
+
+PATH: torso_outline
+d: m 150,117.50292 21.35295,0.11139 c 1.2881,-20.143635 4.55437,-29.90194 8.34868,-36.88804 0,0 -1.36184,-8.111842 -12.13815,-18.651316 C 162.03739,65.532529 156.15746,66.867097 150,6
+transform: None
+style: font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#0096f5;stroke-width:0.591;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none
+
+PATH: pelvis_outline
+d: m 171.19879,117.489 1.59099,17.33318 c 0,0 -12.15208,4.60547 -22.78342,21.95973 -10.63134,-17.64734 -22.78978,-21.95973 -22.78978,-21.95973 l 1.59099,-17.33333 20.50479,1.5e-4 z
+transform: None
+style: font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#a600f5;stroke-width:0.591;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none
+
+PATH: thight_left
+d: m 160.39681,200.80614 c 0.9367,-14.94314 -9.36202,-29.8618 -9.99247,-43.89992 0.26257,-2.03782 4.66773,-7.56686 9.02188,-12.2488 4.3635,-4.69201 10.04214,-8.33094 13.02862,-9.66773
+transform: translate(1.4583334e-6)
+style: font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ff3a03;stroke-width:0.591;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none
+
+PATH: foot_left_outline
+d: m 173.12473,249.37321 15.57496,18.08705 c -1.79015,3.17745 -5.43756,4.12619 -10.38331,3.51692 l -13.06287,-12.72792 0.66989,-8.70858 z
+transform: None
+style: font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ff3a03;stroke-width:0.591;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none
+
+PATH: lower_leg_left
+d: m 173.2922,195.27954 c 0,0 5.35913,12.2255 -0.16747,54.09367 l -7.45254,0.24772 c 0,0 -6.75374,-47.11449 -5.27538,-48.81479
+transform: None
+style: font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ff3a03;stroke-width:0.591;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none
+
+PATH: thight_right
+d: m 139.61155,200.80614 c -0.9367,-14.94314 9.36202,-29.8618 9.99247,-43.89992 -0.26257,-2.03782 -4.66773,-7.56686 -9.02188,-12.2488 -4.3635,-4.69201 -10.04214,-8.33094 -13.02862,-9.
+transform: None
+style: font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#ff3a03;stroke-width:0.591;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none
+
+PATH: foot_right
+d: m 126.88363,249.37321 -15.57496,18.08705 c 1.79015,3.17745 5.43756,4.12619 10.38331,3.51692 l 13.06287,-12.72792 -0.66989,-8.70858 z
+transform: None
+style: font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#ff3a03;stroke-width:0.591;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none
+
+PATH: lower_leg_right
+d: m 126.71616,195.27954 c 0,0 -5.35913,12.2255 0.16747,54.09367 l 7.45254,0.24772 c 0,0 6.75374,-47.11449 5.27538,-48.81479
+transform: None
+style: font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#ff3a03;stroke-width:0.591;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none
+
+PATH: fore_arm_left_outline
+d: m 252.649,57.693377 c -13.75112,1.295863 -28.39771,-0.184211 -41.15132,4.203945 l 1.30263,11.605263 c 16.38889,-0.04983 28.54103,-3.046975 39.84869,-6.631578 z
+transform: None
+style: font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#8c37cb;stroke-width:0.591;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none
+
+PATH: hand_left_outline
+d: m 252.35295,57.634166 5.80263,-5.032897 8.17105,-3.078946 0.65132,2.190789 -5.56579,3.138157 5.86184,1.065789 10.00658,1.06579 c 2.87841,2.560597 6.18563,5.027159 -3.31579,10.30263
+transform: None
+style: font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#3751cb;stroke-width:0.591;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none
