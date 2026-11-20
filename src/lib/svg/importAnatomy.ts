@@ -21,6 +21,11 @@ export async function importAnatomy({
   // Convertir SVG a documento JSON
   const document = readSvg(source);
 
+  console.log(
+    "DOCUMENTO PARSEADO:",
+    JSON.stringify(document.children, null, 2)
+);
+
   // Insertar anatomía en PostgreSQL
   const result = await insertAnatomy({
     name,
